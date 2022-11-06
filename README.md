@@ -22,7 +22,7 @@ This app is an animated screeen that is built using a Lottie Animation File whic
   <body>
     <img src="https://github.com/OmkarMGhanekar/SplashScreenFlutter/blob/master/assets/imagescreen.JPG" width=30%, height= 30%/>
     <p> This is an animated file </p>
-    <img src="https://github.com/OmkarMGhanekar/SplashScreenFlutter/blob/master/assets/splashscreem.JPG" width=30%, height= 30%/>
+    <img src="https://github.com/OmkarMGhanekar/SplashScreenFlutter/blob/master/assets/splashscreem.JPG" width=40%, height= 40%/>
     <img src="https://github.com/OmkarMGhanekar/SplashScreenFlutter/blob/master/assets/secondscreen.JPG" width=30%, height= 30%/>
   </body>
 </html>
