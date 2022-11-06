@@ -49,7 +49,10 @@ class _SplashScreenState extends State<SplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Container(
+              //child:Lottie.asset( 
+              //for lottie animation and also uncommenet the line below and json file instead of baggage.jpg to filename.json
               child: Image.asset(
+                
                 "assets/baggage.jpg",
                 height: 200,
                 width: 800,
